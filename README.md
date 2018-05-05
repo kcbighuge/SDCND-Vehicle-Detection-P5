@@ -92,9 +92,9 @@ The final classifier was optimized by searching on 2 window scales using YUV 3-c
 ### Video Implementation
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (somewhat wobbly or unstable bounding boxes are ok as long as you are identifying the vehicles most of the time with minimal false positives.)
-Here's a [link to the output video result](./output_video.mp4).
+Here's the [output video file](./output_video.mp4).
 
-And a [link to the output combined with lane finding](./lane_plus_vehicle_video.mp4).
+And here's a [youtube link](https://youtu.be/XHXD3tRlTyM) to the [output file combined with lane finding](./lane_plus_vehicle_video.mp4).
 
 #### 2. Describe how (and identify where in your code) you implemented some kind of filter for false positives and some method for combining overlapping bounding boxes.
 
