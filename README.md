@@ -24,7 +24,6 @@ Here are links to the labeled data for [vehicle](https://s3.amazonaws.com/udacit
 [image5]: ./examples/heat_bboxes.png
 [video1]: ./output_video.mp4
 
----
 
 ## Implementation    
 Below are the steps taken to implement the pipeline.  
